@@ -55,9 +55,9 @@ body {
 }
 
 .intro2 {
-    background: linear-gradient(rgb(8, 8, 16, 0.60), rgba(8, 8, 16, 0.60)), url('photos/Background2.png');
-    background-repeat: no-repeat;
-    background-position: center;
+    background: linear-gradient(rgb(8, 8, 16, 0.60), rgba(8, 8, 16, 0.60)), url('photos/nether.png');
+    background-repeat: repeat;
+    background-position: -15px;
     background-size: cover;
 }
 
