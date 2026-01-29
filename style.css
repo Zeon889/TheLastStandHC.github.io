@@ -175,3 +175,8 @@ a.active {
     margin: auto;
     text-align: center;
 }
+
+.logo {
+    height: 80px;
+    width: 80px;
+}
