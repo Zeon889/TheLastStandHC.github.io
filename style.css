@@ -48,7 +48,7 @@ body {
 }
 
 .intro1 {
-    background: linear-gradient(rgb(8, 8, 16, 0.60), rgba(8, 8, 16, 0.60)), url('photos/Background1.png');
+    background: linear-gradient(rgb(8, 8, 16, 0.60), rgba(8, 8, 16, 0.60)), url('photos\Background1.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
